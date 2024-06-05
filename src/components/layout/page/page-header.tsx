@@ -55,7 +55,7 @@ const headerIcons = [
   { icon: <BsInboxFill size={20} />, tooltip: "Inbox", href: "" },
   {
     icon: <BsGithub size={20} />,
-    href: "https://github.com/igorm84/rediscord",
+    href: "https://github.com/ArhanAnsari/rediscord",
     tooltip: "Author github",
   },
 ];
